@@ -60,5 +60,3 @@ else:
 
 team_1[0].follow_to_Hero(hero_1)
 print(team_1[0].number, hero_1.number)
-
-print ("Test commit")
